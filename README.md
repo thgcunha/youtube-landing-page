@@ -5,10 +5,10 @@ Animação de Gradiente: Menu com animação suave de degradê em CSS.
 Interface Responsiva: Adaptação para dispositivos móveis e desktops. 
 Separados em seções: Seções que simulam chamadas para ação, com sugestões de vídeos e botões estilizados. 
 🚀 Tecnologias Utilizadas 
-HTML5 
-CSS3 
-Bootstrap 
-JavaScript
-Font Awesome (para ícones)
+HTML5 |
+CSS3 |
+Bootstrap |
+JavaScript |
+Font Awesome (para ícones).
 
 Espero que você goste e aproveite a experiência de explorar esta landing page do YouTube!
