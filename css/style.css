@@ -76,6 +76,7 @@ body {
     cursor: pointer;
 }
 
+
 /* Estilos para telas pequenas */
 @media (max-width: 768px) {
     .nav-menu {
@@ -97,6 +98,7 @@ body {
         transition: all 0.3s ease;
     
     }
+
 
     .nav-link::after{
         background-color: #f9f9f9;
@@ -129,6 +131,23 @@ body {
         width: 200%;
         
     }
+
+    .divulgacao article {
+        max-width: 90%; /* Reduz a largura para telas menores */
+        padding: 0 10px; /* Adiciona espaçamento extra para as laterais */
+    }
+
+    .divulgacao .row .col-10 {
+        max-width: 85%; /* Reduz o tamanho das imagens para criar mais espaço */
+        margin: 0 auto; /* Centraliza as imagens */
+    }
+
+    .divulgacao img {
+        max-width: 100%; /* Garante que imagens não saiam da tela */
+        height: auto;
+    }
+
+    
 }
 
 /* Seções */
